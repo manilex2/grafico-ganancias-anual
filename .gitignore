@@ -1,0 +1,7 @@
+node_modules
+.env
+.serverless
+*.zip
+credentials.json
+.serverless
+package-lock.json
